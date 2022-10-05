@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Adding the initial empty package
+- Duplicate helper script code to a dedicated package
 
 ### Changed
 - Updated package dependencies.
