@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Enable test coverage.
 
+### Changed
+- Backup: added next daily backup schedule time on admin page
+
 ## [0.2.6] - 2024-10-29
 ### Changed
 - Internal updates. [#39781]
