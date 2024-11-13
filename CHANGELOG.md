@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.2.7-alpha] - unreleased
+## [0.3.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Backup: added next daily backup schedule time on admin page
+
+### Removed
+- General: Update minimum PHP version to 7.2.
 
 ## [0.2.6] - 2024-10-29
 ### Changed
@@ -85,7 +88,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
-[0.2.7-alpha]: https://github.com/Automattic/jetpack-transport-helper/compare/v0.2.6...v0.2.7-alpha
+[0.3.0-alpha]: https://github.com/Automattic/jetpack-transport-helper/compare/v0.2.6...v0.3.0-alpha
 [0.2.6]: https://github.com/Automattic/jetpack-transport-helper/compare/v0.2.5...v0.2.6
 [0.2.5]: https://github.com/Automattic/jetpack-transport-helper/compare/v0.2.4...v0.2.5
 [0.2.4]: https://github.com/Automattic/jetpack-transport-helper/compare/v0.2.3...v0.2.4
