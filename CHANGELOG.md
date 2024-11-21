@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Backup: added next daily backup schedule time on admin page
+- Updated dependencies.
 
 ### Removed
 - General: Update minimum PHP version to 7.2.
