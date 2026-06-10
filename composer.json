@@ -6,12 +6,12 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-backup-helper-script-manager": "^0.3.11",
-		"automattic/jetpack-connection": "^8.6.0"
+		"automattic/jetpack-connection": "^8.6.1-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.8"
+		"automattic/phpunit-select-config": "^1.0.9-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
