@@ -5,8 +5,8 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.4",
-		"automattic/jetpack-backup-helper-script-manager": "^0.4.1-alpha",
-		"automattic/jetpack-connection": "^9.14.0-alpha"
+		"automattic/jetpack-backup-helper-script-manager": "^0.4.1",
+		"automattic/jetpack-connection": "^9.14.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
